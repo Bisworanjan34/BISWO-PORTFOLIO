@@ -1,0 +1,47 @@
+/* .nested-p:focus{
+    color:  rgb(255, 0, 255);
+    border-left: 2px solid rgb(255, 0, 255);
+    padding: 0 5px;
+} */
+
+.nested-p{
+    font-size: 16px;
+    border: none;
+<<<<<<< HEAD
+    /* color: white; */
+=======
+    background: transparent;
+>>>>>>> 3705b6af07e21c711f25b6c60b01972bb3afc017
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+   /* font-weight: bold; */
+}
+.aboutlink{
+    color: rgb(255, 0, 255) !important;
+    /* color: red !important; */
+    font-weight: bold;
+}
+.aboutlink{
+    color: rgb(255, 0, 255) !important;
+    /* color: red !important; */
+    font-weight: bold;
+}
+.outlet-about{
+    margin: 16px 0;
+    box-shadow: 0 0 10px 2px rgb(255, 0, 255);
+}
+.about-title{
+    color: rgb(255, 0, 255);
+    font-weight: bold;
+}
+@media screen and (max-width:423px){
+    .about-cont a{
+    font-size: 10px;
+    }
+<<<<<<< HEAD
+    .about-list h5{
+        font-size: 13px;
+    }
+}
+=======
+}
+>>>>>>> 3705b6af07e21c711f25b6c60b01972bb3afc017
